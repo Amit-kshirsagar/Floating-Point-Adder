@@ -1,4 +1,4 @@
-# Floating-Point-Adder
+# Floating Point Adder
 Originally developed in 2021 as part of a Computer Architecture Course; this repository contains the finalized and cleaned version for public release.
 ## Overview
 This project implements a **Floating Point Adder** using **Verilog HDL**, designed to perform addition on 32-bit IEEE 754 single-precision floating-point numbers. Both inputs and outputs follow the normalized IEEE 754 format, with appropriate handling of special cases and infinity values.
